@@ -11,7 +11,7 @@ To address this challenge, we propose the Label-Propagation Tensor Graph Neural 
 
 ## Prerequisite
 
-This TGNN implementation is based on [TTG-NN](https://github.com/TaoWen0309/TTG-NN).
+This TGNN implementation is based on [TTG-NN](https://github.com/TaoWen0309/TTG-NN) and there are extra prerequisites.
 
 ## Citation
 Please consider citing our work if you find it useful:
