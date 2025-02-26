@@ -16,5 +16,13 @@ This TGNN implementation is based on [TTG-NN](https://github.com/TaoWen0309/TTG-
 ## Citation
 Please consider citing our work if you find it useful:
 ```
-
+@misc{wen2025bridgingdomainadaptationgraph,
+      title={Bridging Domain Adaptation and Graph Neural Networks: A Tensor-Based Framework for Effective Label Propagation}, 
+      author={Tao Wen and Elynn Chen and Yuzhou Chen and Qi Lei},
+      year={2025},
+      eprint={2502.08505},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.08505}, 
+}
 ```
